@@ -1,0 +1,1 @@
+Esta tarea consiste en alojar en GITHUB mi página web, en este caso para ayudar a la gente a descubrir Brasil. En este trabajo hay que añadir a GITHUB tanto los códigos HTML, CSS y JavaScript y además también las imágenes de la web, que en mi caso , no tiene. También hay que cambiar la licencia y hacer un ReadME, lo que estoy haciendo ahora mismo para explicar la tarea.
